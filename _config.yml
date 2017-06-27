@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
 repository: "mikegrundvig/mikegrundvig.github.io"
+future: true
 
 defaults:
   # _posts
@@ -14,3 +15,4 @@ defaults:
       comments: true
       share: true
       related: true
+      
