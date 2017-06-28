@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-modernist
 permalink: /blog/:year/:month/:day/:title
 repository: "mikegrundvig/mikegrundvig.github.io"
 future: true
