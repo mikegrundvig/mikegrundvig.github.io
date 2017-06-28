@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Home Automation - Posts  Coming Soon!"
 date:   2017-06-27 16:16:01 -0600
-categories: jekyll update
+categories: Maker Faire, Home Automation
+comments: false
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Last weekend was Maker Faire in Kansas City and I exhibited my home automation project running on Raspberry Pis. A fair number of people were interested in the project and asked me for details on the build and the parts involved. I told them I'd have the first set of details up this weekend. A couple people have emailed me about the project and how my site was down. I wouldn't call it down so much as never created: )
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I updated the DNS entries this morning and got Github Pages working today. For anyone interested in the project, please check back on Sunday as I'll have some project related things posted by then. Sorry for the delay and thanks for the patience!

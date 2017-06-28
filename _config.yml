@@ -3,8 +3,9 @@ permalink: /blog/:year/:month/:day/:title
 repository: "mikegrundvig/mikegrundvig.github.io"
 future: true
 title: "Michael Grundvig"
-description: "Yet another developer blog"
+description: "Yet another developer blog - you'd think this is all we do!"
 email_url: "mailto:michael@michaelgrundvig.com"
+show_nav: true
 
 defaults:
   # _posts

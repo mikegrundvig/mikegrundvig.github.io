@@ -1,17 +1,19 @@
 ---
 layout: default
 title: Michael Grundvig
+show_nav: true
 ---
-<div class="blurb">
+<!--<div class="blurb">
 	<h1>Hi there, I'm Mike!</h1>
 	<p>Blah blah blah, yakity smackity<a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
+</div>
+-->
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      {{ post.content }}
     </li>
   {% endfor %}
 </ul>
