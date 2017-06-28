@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-leap-day
 permalink: /blog/:year/:month/:day/:title
 repository: "mikegrundvig/mikegrundvig.github.io"
 future: true
