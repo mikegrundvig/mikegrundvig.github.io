@@ -2,6 +2,9 @@ theme: jekyll-theme-modernist
 permalink: /blog/:year/:month/:day/:title
 repository: "mikegrundvig/mikegrundvig.github.io"
 future: true
+title: "Michael Grundvig"
+description: "Yet another developer blog"
+email_url: "mailto:michael@michaelgrundvig.com"
 
 defaults:
   # _posts

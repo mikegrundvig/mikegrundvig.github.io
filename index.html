@@ -6,3 +6,12 @@ title: Michael Grundvig
 	<h1>Hi there, I'm Mike!</h1>
 	<p>Blah blah blah, yakity smackity<a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
